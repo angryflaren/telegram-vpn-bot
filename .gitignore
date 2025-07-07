@@ -10,7 +10,6 @@ venv/
 
 # Sensitive data & logs
 config.py
-/data/
 /mailing/
 /attachments/
 *.log
